@@ -34,7 +34,4 @@
   <a href="https://www.linkedin.com/in/fernandosouzavieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> &nbsp;
   <a href="https://linktr.ee/fernandosouzavieira" target="_blank"><img alt="Linktree" height="25" width="140" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Linktree.svg/1200px-Linktree.svg.png" target="_blank"></a>
  
-  <!--
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  -->
 </div>
